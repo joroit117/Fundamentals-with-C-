@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\6.BalancedBrackets.exe
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\6.BalancedBrackets.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\6.BalancedBrackets.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\6.BalancedBrackets.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\6.BalancedBrackets.dll
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\6.BalancedBrackets.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\6.BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\6.BalancedBrackets.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\6.BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\6.BalancedBrackets.dll
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\6.BalancedBrackets.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\6.BalancedBrackets.genruntimeconfig.cache

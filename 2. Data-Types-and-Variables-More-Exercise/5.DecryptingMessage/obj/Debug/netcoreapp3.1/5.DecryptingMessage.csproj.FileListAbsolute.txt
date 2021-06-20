@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\bin\Debug\netcoreapp3.1\5.DecryptingMessage.exe
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\bin\Debug\netcoreapp3.1\5.DecryptingMessage.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\bin\Debug\netcoreapp3.1\5.DecryptingMessage.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\bin\Debug\netcoreapp3.1\5.DecryptingMessage.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\bin\Debug\netcoreapp3.1\5.DecryptingMessage.dll
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\bin\Debug\netcoreapp3.1\5.DecryptingMessage.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\obj\Debug\netcoreapp3.1\5.DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\obj\Debug\netcoreapp3.1\5.DecryptingMessage.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\obj\Debug\netcoreapp3.1\5.DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\obj\Debug\netcoreapp3.1\5.DecryptingMessage.dll
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\obj\Debug\netcoreapp3.1\5.DecryptingMessage.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\Data-Types-and-Variables-More-Exercise\5.DecryptingMessage\obj\Debug\netcoreapp3.1\5.DecryptingMessage.genruntimeconfig.cache
