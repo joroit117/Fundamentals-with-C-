@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.exe
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.exe
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.csprojAssemblyReference.cache
