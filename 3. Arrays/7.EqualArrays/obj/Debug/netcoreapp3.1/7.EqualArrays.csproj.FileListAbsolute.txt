@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.exe
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.genruntimeconfig.cache

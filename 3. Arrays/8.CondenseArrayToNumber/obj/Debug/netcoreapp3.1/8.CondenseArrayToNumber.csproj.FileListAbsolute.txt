@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\bin\Debug\netcoreapp3.1\8.CondenseArrayToNumber.exe
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\bin\Debug\netcoreapp3.1\8.CondenseArrayToNumber.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\bin\Debug\netcoreapp3.1\8.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\bin\Debug\netcoreapp3.1\8.CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\bin\Debug\netcoreapp3.1\8.CondenseArrayToNumber.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\bin\Debug\netcoreapp3.1\8.CondenseArrayToNumber.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.dll
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\3.Arrays\Arrays\8.CondenseArrayToNumber\obj\Debug\netcoreapp3.1\8.CondenseArrayToNumber.genruntimeconfig.cache
