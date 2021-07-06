@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.exe
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.dll
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.dll
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\Methods\1.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\1.SignOfIntegerNumbers.genruntimeconfig.cache
