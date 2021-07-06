@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\bin\Debug\netcoreapp3.1\3.MergingListss.exe
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\bin\Debug\netcoreapp3.1\3.MergingListss.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\bin\Debug\netcoreapp3.1\3.MergingListss.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\bin\Debug\netcoreapp3.1\3.MergingListss.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\bin\Debug\netcoreapp3.1\3.MergingListss.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\bin\Debug\netcoreapp3.1\3.MergingListss.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\obj\Debug\netcoreapp3.1\3.MergingListss.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\obj\Debug\netcoreapp3.1\3.MergingListss.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\obj\Debug\netcoreapp3.1\3.MergingListss.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\obj\Debug\netcoreapp3.1\3.MergingListss.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\obj\Debug\netcoreapp3.1\3.MergingListss.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\3.MergingListss\obj\Debug\netcoreapp3.1\3.MergingListss.genruntimeconfig.cache

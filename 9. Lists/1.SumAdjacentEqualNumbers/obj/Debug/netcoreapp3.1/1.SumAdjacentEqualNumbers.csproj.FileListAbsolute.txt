@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.exe
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\1.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\1.SumAdjacentEqualNumbers.genruntimeconfig.cache
