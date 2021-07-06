@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.exe
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\5.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\5.RemoveNegativesAndReverse.genruntimeconfig.cache

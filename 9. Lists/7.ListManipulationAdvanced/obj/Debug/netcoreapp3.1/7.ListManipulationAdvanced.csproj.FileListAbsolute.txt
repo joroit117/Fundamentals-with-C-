@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\bin\Debug\netcoreapp3.1\7.ListManipulationAdvanced.exe
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\bin\Debug\netcoreapp3.1\7.ListManipulationAdvanced.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\bin\Debug\netcoreapp3.1\7.ListManipulationAdvanced.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\bin\Debug\netcoreapp3.1\7.ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\bin\Debug\netcoreapp3.1\7.ListManipulationAdvanced.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\bin\Debug\netcoreapp3.1\7.ListManipulationAdvanced.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\7.ListManipulationAdvanced\obj\Debug\netcoreapp3.1\7.ListManipulationAdvanced.genruntimeconfig.cache

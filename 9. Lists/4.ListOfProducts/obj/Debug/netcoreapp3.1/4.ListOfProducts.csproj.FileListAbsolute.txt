@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\bin\Debug\netcoreapp3.1\4.ListOfProducts.exe
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\bin\Debug\netcoreapp3.1\4.ListOfProducts.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\bin\Debug\netcoreapp3.1\4.ListOfProducts.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\bin\Debug\netcoreapp3.1\4.ListOfProducts.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\bin\Debug\netcoreapp3.1\4.ListOfProducts.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\bin\Debug\netcoreapp3.1\4.ListOfProducts.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.dll
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\9. Lists\9. Lists\4.ListOfProducts\obj\Debug\netcoreapp3.1\4.ListOfProducts.genruntimeconfig.cache
