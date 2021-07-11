@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\bin\Debug\netcoreapp3.1\02.Problem2.exe
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\bin\Debug\netcoreapp3.1\02.Problem2.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\bin\Debug\netcoreapp3.1\02.Problem2.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\bin\Debug\netcoreapp3.1\02.Problem2.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\bin\Debug\netcoreapp3.1\02.Problem2.dll
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\bin\Debug\netcoreapp3.1\02.Problem2.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.dll
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\MidExam10-07-2021\MidExam10-07-2021\02.Problem2\obj\Debug\netcoreapp3.1\02.Problem2.genruntimeconfig.cache
