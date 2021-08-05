@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.exe
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.dll
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.dll
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.genruntimeconfig.cache

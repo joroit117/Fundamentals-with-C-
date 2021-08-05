@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\5.Digits,LettersAndOther.exe
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\5.Digits,LettersAndOther.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\5.Digits,LettersAndOther.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\5.Digits,LettersAndOther.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\5.Digits,LettersAndOther.dll
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\5.Digits,LettersAndOther.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\5.Digits,LettersAndOther.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\5.Digits,LettersAndOther.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\5.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\5.Digits,LettersAndOther.dll
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\5.Digits,LettersAndOther.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\15.TextProcessing\5.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\5.Digits,LettersAndOther.genruntimeconfig.cache
