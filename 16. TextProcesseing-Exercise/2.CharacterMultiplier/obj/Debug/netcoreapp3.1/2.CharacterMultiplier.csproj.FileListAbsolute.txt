@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.exe
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.dll
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.dll
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.genruntimeconfig.cache
