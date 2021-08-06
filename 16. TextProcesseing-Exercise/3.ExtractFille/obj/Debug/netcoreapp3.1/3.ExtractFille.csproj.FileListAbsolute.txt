@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\bin\Debug\netcoreapp3.1\3.ExtractFille.exe
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\bin\Debug\netcoreapp3.1\3.ExtractFille.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\bin\Debug\netcoreapp3.1\3.ExtractFille.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\bin\Debug\netcoreapp3.1\3.ExtractFille.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\bin\Debug\netcoreapp3.1\3.ExtractFille.dll
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\bin\Debug\netcoreapp3.1\3.ExtractFille.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.dll
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\16.TextProcessing-Exercise\3.ExtractFille\obj\Debug\netcoreapp3.1\3.ExtractFille.genruntimeconfig.cache
