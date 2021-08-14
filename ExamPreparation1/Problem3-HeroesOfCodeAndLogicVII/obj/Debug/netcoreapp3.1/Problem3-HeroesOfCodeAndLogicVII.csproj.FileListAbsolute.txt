@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.exe
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.dll
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.dll
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem3-HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\Problem3-HeroesOfCodeAndLogicVII.genruntimeconfig.cache

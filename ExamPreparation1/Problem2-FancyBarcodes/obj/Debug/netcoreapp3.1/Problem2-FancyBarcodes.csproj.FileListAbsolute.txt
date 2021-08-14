@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2-FancyBarcodes.exe
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2-FancyBarcodes.deps.json
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2-FancyBarcodes.runtimeconfig.json
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2-FancyBarcodes.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2-FancyBarcodes.dll
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2-FancyBarcodes.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.AssemblyInfo.cs
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.dll
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.pdb
+C:\Users\georg\source\repos\Fundamentals with C#\ExamPreparation1\Problem2-FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2-FancyBarcodes.genruntimeconfig.cache
